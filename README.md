@@ -1,4 +1,4 @@
-![sql9](https://github.com/user-attachments/assets/3ee68033-5329-4343-aee7-bf26d61b4da7)
+
 This is work that I did in MySQL during my Data Technician Skills Bootcamp.
 
 This work used the world_db dataset embedded in this SQL file:[Uploading world db (1).sql…]()
